@@ -10,6 +10,7 @@
 .LSOverride
 Icon
 .env
+
 # and thumbnails
 ._*
 
